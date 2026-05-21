@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "arcane",
+  "version": "${version}",
+  "name": "Arcane",
+  "description": "Minecraft 1.21.4 fabric Hack Client Mod By LazyMoon Team made",
+  "authors": ["Gu_yuemang"],
+  "icon": "assets/lazymoon/arcane/icons/icon.png",
+  "license": "GPL-3.0",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "cn.lazymoon.arcane.ArcaneInitializer"
+    ],
+    "main": [
+      "cn.lazymoon.arcane.ModLoader"
+    ]
+  },
+  "mixins": [
+    "arcane.mixins.json",
+    {
+      "config": "arcane.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "fabric-api": "*",
+    "minecraft": "1.21.4",
+    "java": ">=21"
+  },
+  "suggests": {
+    "another-mod": "*"
+  },
+  "accessWidener": "widener.accesswidener"
+}

@@ -1,0 +1,60 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.lazymoon.mixin.injector",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "accessor.AbstractFurnaceScreenHandlerAccessor",
+    "accessor.BrewingStandScreenHandlerAccessor",
+    "accessor.CameraAccessor",
+    "accessor.PlayerEntityAccessor",
+    "entity.MixinElytraFlightController",
+    "entity.MixinEntity",
+    "entity.MixinLivingEntity",
+    "entity.MixinPlayerEntity",
+    "item.MixinItem",
+    "network.MixinClientConnection",
+    "network.MixinNetworkThreadUtils",
+    "network.packet.c2s.play.PlayerMoveC2SPacketAccessor",
+    "render.MixinScoreboard"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  },
+  "client": [
+    "accessor.ItemRendererAccessor",
+    "splash.SplashOverlayMixin",
+    "splash.TitleScreenMixin",
+    "accessor.MinecraftClientAccessor",
+    "client.JMixinMinecraftClient",
+    "entity.MixinBipedEntityModel",
+    "entity.MixinBipedEntityRenderer",
+    "entity.MixinClientPlayerEntity",
+    "entity.MixinEntityRenderDispatcher",
+    "entity.MixinLivingEntityRenderer",
+    "hud.MixinInGameOverlayRenderer",
+    "input.JMixinKeyboard",
+    "input.MixinChatInputSuggestor",
+    "input.MixinKeyboardInput",
+    "interaction.MixinClientPlayerInteractionManager",
+    "network.MixinAbstractClientPlayerEntity",
+    "network.MixinClientPlayNetworkHandler",
+    "player.MixinHeldItemRenderer",
+    "render.MixinBackgroundRenderer",
+    "render.MixinCamera",
+    "render.MixinDynamic",
+    "render.MixinEntityRenderer",
+    "render.MixinGameRenderer",
+    "render.MixinGameRenderer_LegacyAnimation",
+    "render.MixinGuiIngame",
+    "render.MixinHeldItemFeatureRenderer",
+    "render.MixinLightmapTextureManager",
+    "screen.MixinChatScreen",
+    "screen.MixinHandledScreen",
+    "utils.JMixinWindow",
+    "world.MixinClientWorld"
+  ]
+}
