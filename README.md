@@ -50,7 +50,7 @@ cd Open-A
 ### 2666j(陆泽宇)
 
 ![CoolMotherFuckers](img/Yang.png)
-### Jello_2337(杨俊熙)
+### Jello_2337(张俊雅)
 
 ## 代码解析
 此人的代码水准宛如一根成年的香蕉,在这里我不多赘述，看截图就行。
