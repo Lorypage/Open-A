@@ -40,10 +40,13 @@ Private512(陈骁月)
 ![Field](img/field.png)
 ![WTF](img/wtf.png)
 ![shit](img/shit.png)
+如果你想查看更多,请前往[哔哩哔哩](https://www.bilibili.com/video/BV1JeL86xEEd/)观看。
+另外，你想查看他的早期代码可以前往[Dog-Sh1t-Little-Opai仓库](https://github.com/Sui-love-u/Dog-Sh1t-Little-Opai-Client)
 
 ## 致谢
 
 - **ArcaneNG**。
-- 孤月茫自己
-- NHCM-DEV(感谢他破解Arcane导致Gym跑路)
-- Jetbrains
+- [孤月茫自己](https://github.com/guyuemang/Arcane-nextgen-master/commits?author=guyuemang)
+- [NHCM-DEV](https://github.com/NHCM-dev/ExpoIRC)(感谢他破解Arcane导致Gym跑路)
+- [Jetbrains](https://www.jetbrains.com/)
+- [Little-Opai](https://github.com/Sui-love-u/Dog-Sh1t-Little-Opai-Client)
