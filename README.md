@@ -38,11 +38,18 @@ Private512(陈骁月)
 此人的代码水准宛如一根成年的香蕉,在这里我不多赘述，看截图就行。
 
 ![Field](img/field.png)
+
 国际场
+
 ![WTF](img/wtf.png)
+
 Nanovg和gl的爱情故事
+
 ![shit](img/shit.png)
+
+
 这几把啥啊
+
 如果你想查看更多,请前往[哔哩哔哩](https://www.bilibili.com/video/BV1JeL86xEEd/)观看。
 另外，你想查看他的早期代码可以前往[Dog-Sh1t-Little-Opai仓库](https://github.com/Sui-love-u/Dog-Sh1t-Little-Opai-Client)
 
