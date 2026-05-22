@@ -26,6 +26,15 @@
 ![Bajie](img/bajie3.png)
 ![Bajie](img/bajie4.png)
 
+## 导致开源的罪魁祸首
+![CoolMotherFucker](img/Screenshot_20260522-105154.png)
+Private512
+
+![CoolMotherFuckers](img/I
+mage_1779386757802_751.jpg)
+
+
+
 ## 代码解析
 此人的代码水准宛如一根成年的香蕉,在这里我不多赘述，看截图就行。
 
