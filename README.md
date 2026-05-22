@@ -1,4 +1,11 @@
+# 百年好合
+
+![Marry](img/marry.jpg)
+
 # Open-A
+
+<p>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPLV3-Red.svg" alt="License"/></a>
 
 > 此客户端删除了部分重要代码，所以部分功能可能存在不可使用，如果你想使用这个垃圾狗屎Base那么你需要进行一些修复。
 
@@ -11,6 +18,14 @@
 
 ## 截图
 ![Open Arcane ClickGUI](img/Clickgui.png)
+
+## 构建
+
+```bash
+git clone https://github.com/Lorypage/Open-A.git
+cd Open-A
+./gradlew build
+```
 
 ## 关于开发者-孤月茫(Private512)
 
@@ -28,11 +43,14 @@
 
 ## 导致开源的罪魁祸首
 ![CoolMotherFucker](img/ChenXiaoyue.png)
-Private512(陈骁月)
-在[榆次六中](https://baike.baidu.com/item/%E6%A6%86%E6%AC%A1%E5%85%AD%E4%B8%AD/3236926)读书
+### Private512(陈骁月)
+### 在[榆次六中](https://baike.baidu.com/item/%E6%A6%86%E6%AC%A1%E5%85%AD%E4%B8%AD/3236926)读书
 
 ![CoolMotherFuckers](img/LuZeyu.jpg)
-2666j(陆泽宇)
+### 2666j(陆泽宇)
+
+![CoolMotherFuckers](img/Yang.png)
+### Jello_2337(杨俊熙)
 
 ## 代码解析
 此人的代码水准宛如一根成年的香蕉,在这里我不多赘述，看截图就行。
