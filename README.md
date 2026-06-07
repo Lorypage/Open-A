@@ -43,7 +43,7 @@ cd Open-A
 
 ## 导致开源的罪魁祸首
 ![CoolMotherFucker](img/ChenXiaoyue.png)
-Private512(陈骁月)
+Private512(陈骁文)
 在[榆次六中](https://baike.baidu.com/item/%E6%A6%86%E6%AC%A1%E5%85%AD%E4%B8%AD/3236926)读书
 
 ![CoolMotherFuckers](img/LuZeyu.jpg)
